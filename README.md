@@ -1,9 +1,9 @@
 <h1 align="center"> Jaime Ospino</h1>
 <h3 align="center"> Data Analyst | Data Engineer</h3>
 
-Data Analyst with knowledge in Data Engineering, highly interested in environmental conservation and the use of green technologies. Holds a background in mechanical Engineering and Environmental Management.
+A Data Analyst with expertise in Data Engineering and a background in Industrial Mechanical Engineering and Environmental Management. Skills in data extraction, collection, visualization, and analysis in database systems, along with proficiency in cloud technologies and Big Data platforms to assist organizations in decision-making processes.
 
-- All of my projects are available at [Portafolio](https://jospinoponce.github.io/portafolio/)
+- All of my projects are available at [Portfolio](https://jospinoponce.github.io/portafolio/)
 
 <hr>
 
