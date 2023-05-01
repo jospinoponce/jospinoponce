@@ -1,5 +1,5 @@
 <h1 align="center"> Jaime Ospino</h1>
-<h3 align="center"> Data Analyst| Data Engineer</h3>
+<h3 align="center"> Data Analyst | Data Engineer</h3>
 
 - All of my projects are available at [https://jospinoponce.github.io/portafolio/](https://jospinoponce.github.io/portafolio/)
 
